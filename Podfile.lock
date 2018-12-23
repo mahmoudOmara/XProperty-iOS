@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - BMASliders (1.0.0)
+  - FAPaginationLayout (2.0.1)
+  - ObjectMapper (3.4.1)
+  - PagingKit (1.6.1)
+  - Popover (1.2.0)
+  - RappleProgressHUD (3.0.4)
+  - ReachabilitySwift (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireObjectMapper
+  - BMASliders
+  - FAPaginationLayout
+  - PagingKit
+  - Popover
+  - RappleProgressHUD
+  - ReachabilitySwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - BMASliders
+    - FAPaginationLayout
+    - ObjectMapper
+    - PagingKit
+    - Popover
+    - RappleProgressHUD
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  BMASliders: 6a6d6ca5f3f6fefce7ec9823d9c456fd03e106cc
+  FAPaginationLayout: 5f9d95fbd94dff12f863c196640bd797abe68907
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  PagingKit: 2c9c9e23b90277d377dfe97bc74eb79b3bcecc78
+  Popover: 28c1ac8e937ab2b3965bd2da7dd18324357abc41
+  RappleProgressHUD: c57f20ee8e2965c6107aaf76b97ed0f33f00bc1d
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+
+PODFILE CHECKSUM: 64a1a9458647a7655cf9cfd68c29565524ea2308
+
+COCOAPODS: 1.5.0

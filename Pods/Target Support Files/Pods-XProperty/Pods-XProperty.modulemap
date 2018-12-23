@@ -1,0 +1,6 @@
+framework module Pods_XProperty {
+  umbrella header "Pods-XProperty-umbrella.h"
+
+  export *
+  module * { export * }
+}
